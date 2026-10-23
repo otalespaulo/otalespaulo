@@ -1,42 +1,36 @@
+## Olá, bem vindos(as) ao meu perfil!!
+### Sobre mim:
+- 🙋🏻‍♀️ Olá! Sou Tales, profissional de Análise de Dados e desenvolvedora em constante evolução. Atualmente, trabalho com dados e, em paralelo, sigo desenvolvendo minha stack em Front-end e Desenvolvimento Web.
+- 📊 Gosto de transformar dados em informações que apoiem decisões e, ao mesmo tempo, explorar o desenvolvimento de soluções digitais.
+- 💼 Auxiliar de Advisory
+- 🎓 Graduanda em Ciência da Computação.
+- ❤ Apaixonada por tecnologia.
+- 📌 Aqui você irá encontrar meus projetos, experiências e a evolução da minha jornada no universo do desenvolvimento web!
 
-# 👋 Olá, seja bem-vindo(a) ao meu perfil!
-
-### 🙋🏻‍♂️ Sobre mim
-
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no Senac.
-- 🐍 Desenvolvendo meus conhecimentos em Python, com foco em automação e análise de dados.
-- 📊 Explorando o uso de dados para gerar informações relevantes e apoiar a tomada de decisões.
-- 💻 Desenvolvendo projetos práticos para aprimorar minhas habilidades em programação e resolução de problemas.
-
-- 🚀 Utilizo este espaço para compartilhar meus projetos, aprendizados e evolução na área de tecnologia.
-
-### ✉️ Conecte-se comigo
-
-<a href="www.linkedin.com/in/tales-paulo" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+### ✉️ Você pode me encontrar também em:
+<a href = "https://www.linkedin.com/in/júliaribeiro-gonçalves/">
+  <img src = "https://skillicons.dev/icons?i=linkedin" , src = "https://skillicons.dev"/>
+</a>
+<a href = mailto:goncalves.ribeiroju02@gmail.com>
+  <img src = "https://skillicons.dev/icons?i=gmail" , src = "https://skillicons.dev"/>
 </a>
 
-### 🔧 Tecnologias e ferramentas
-
-#### 🐍 Programação e análise de dados
-
-<div>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+## 🔧 Tecnologias de foco:
+#### 🚀 Desenvolvimento Web:
+<div display = "inline">
+  <img src = "https://skillicons.dev/icons?i=js,html,css" , src = "https://skillicons.dev"/>
 </div>
 
-#### 📊 Dados e produtividade
-
-<div>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+#### 🎲 Banco de Dados / Análises de dados:
+<div display = "inline">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
 </div>
 
-#### ⚙️ Ferramentas de desenvolvimento
-
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e VS Code" />
+#### 🔧 Ferramentas:
+<div display = "inline">
+  <img src= "https://skillicons.dev/icons?i=github" , src = "https://skillicons.dev"/>
+  <img src= "https://skillicons.dev/icons?i=git" , src = "https://skillicons.dev"/>
+  <img src= "https://skillicons.dev/icons?i=vscode" , src = "https://skillicons.dev"/>
 </div>
-
----
-
-💡 *Em constante aprendizado, buscando transformar conhecimento em soluções práticas.*
