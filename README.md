@@ -1,6 +1,6 @@
 ## Olá, bem vindos(as) ao meu perfil!!
 ### Sobre mim:
-- 🙋🏻‍♀️ Olá! Sou a Júlia, profissional de Análise de Dados e desenvolvedora em constante evolução. Atualmente, trabalho com dados e, em paralelo, sigo desenvolvendo minha stack em Front-end e Desenvolvimento Web.
+- 🙋🏻‍♀️ Olá! Sou Tales, profissional de Análise de Dados e desenvolvedora em constante evolução. Atualmente, trabalho com dados e, em paralelo, sigo desenvolvendo minha stack em Front-end e Desenvolvimento Web.
 - 📊 Gosto de transformar dados em informações que apoiem decisões e, ao mesmo tempo, explorar o desenvolvimento de soluções digitais.
 - 💼 Auxiliar de Advisory
 - 🎓 Graduanda em Ciência da Computação.
